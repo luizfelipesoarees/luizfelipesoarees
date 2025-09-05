@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PawsSafety](https://github.com/gabrielspirlan/paws-safety)
 
-- 🌱 I’m currently learning **React Native and Next.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 💎 How to reach me **luizfelipesoarees@gmail.com**
 
