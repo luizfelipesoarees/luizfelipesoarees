@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luiz Felipe</h1>
+<h1 align="center">Hello there, I'm Luiz Felipe</h1>
 <h3 align="center">Software Development Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizfelipesoarees&label=Profile%20views&color=0e75b6&style=flat" alt="luizfelipesoarees" /> </p>
 
-- 🔭 I’m currently working on [PawsSafety](https://github.com/gabrielspirlan/paws-safety)
+- 🔭 I’m currently working on [DivideAi](https://github.com/gabrielspirlan/divide_ai)
 
 - 🌱 I’m currently learning **Flutter**
 
