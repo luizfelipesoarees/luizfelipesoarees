@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizfelipesoarees&label=Profile%20views&color=0e75b6&style=flat" alt="luizfelipesoarees" /> </p>
 
-- 🔭 I’m currently working on [DivideAi](https://github.com/gabrielspirlan/divide_ai)
+- 🔭 I’m currently working on [PetDex](https://github.com/FatecFranca/DSM-P5-G07-2025-2)
 
 - 🌱 I’m currently learning **Flutter**
 
